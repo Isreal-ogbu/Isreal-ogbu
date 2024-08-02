@@ -1,7 +1,6 @@
 ### Hi there👋,
 ---
-I am Backend Developer with specialities in Python-Java (Core), JavaScript-TypeScript (Intermediate)
---
+I am Backend software developer with 3+ years of experience. I write core Python and Java application, with little knowledge in JavaScript--
 <!--
 **Isreal-ogbu/Isreal-ogbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
