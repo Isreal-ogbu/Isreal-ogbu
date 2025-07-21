@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 - 💻 I’m a passionate **backend software developer** with **4+ years of experience** in building scalable, efficient, and maintainable systems.
-- 🐍 I specialize in **Python** (Flask, FastAPI, Django) and **Java** (Spring Boot, Core Java).
+- 🐍 I specialize in **Python** (Django, Flask) and **Java** (Spring Boot, Core Java).
 - 🧠 I have a sprinkle of experience in **JavaScript** (mostly for API integration and tooling).
 - 🛠️ I love designing APIs, working with databases, and optimizing system performance.
 
@@ -42,9 +42,9 @@
 
 ### 📫 How to Reach Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here/)
-- ✉️ Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/isreal-ogbu-software-engineer/)
+- ✉️ Email: ogbuisreal@gmail.com
+- 🐦 Twitter: [@yourhandle](https://twitter.com/eazy_doo)
 
 ---
 
